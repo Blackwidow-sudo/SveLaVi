@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        @vite('resources/ts/app.ts')
+        @vite(['resources/ts/app.ts', 'resources/sass/app.scss'])
 
         <title>SveLaVi</title>
     </head>
