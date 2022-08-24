@@ -3,5 +3,5 @@
 </script>
 
 <div>
-  <h1>Hello World from UserView.svelte</h1>
+  <h1>Hello from {this.constructor.name}</h1>
 </div>
