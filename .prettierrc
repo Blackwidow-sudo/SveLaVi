@@ -1,0 +1,12 @@
+{
+  "semi": false,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "arrowParens": "always",
+  "quoteProps": "consistent",
+  "singleAttributePerLine": true,
+  "plugins": ["prettier-plugin-svelte"]
+}
